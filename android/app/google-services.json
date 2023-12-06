@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039248864899",
+    "project_id": "cvmaissa",
+    "storage_bucket": "cvmaissa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039248864899:android:d685a1fde2827753e18db6",
+        "android_client_info": {
+          "package_name": "com.example.cv_maissa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6ATerA3NcPzxWPzmcqh8hrEtPM-xDDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
